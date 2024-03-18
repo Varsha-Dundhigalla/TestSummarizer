@@ -1,1 +1,1 @@
-# TestSummarizer
+# TextSummarizer
